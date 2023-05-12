@@ -1,10 +1,10 @@
-**A brief methods review**
+**A brief methods review:**
 
-  This bioinformatics analysis was performed with QIIME2, a next-generation microbiome bioinformatics suite that offers a free, user-friendly, and open source platform for both advanced and beginner researchers [1]. The analysis using Qiime2 is run on the Graham cluster hosted by the Digital Research Alliance of Canada (CCDB). Here, I review methods specific to a project involving both sedimentary samples and seabird fecal samples [2].
+This bioinformatics analysis was performed with QIIME2, a next-generation microbiome bioinformatics suite that offers a free, user-friendly, and open source platform for both advanced and beginner researchers [1]. The analysis using Qiime2 is run on the Graham cluster hosted by the Digital Research Alliance of Canada (CCDB). Here, I review methods specific to a project involving both sedimentary samples and seabird fecal samples [2].
 
 ___
 
-**Using the Graham Cluster**
+**Using the CCDB Graham cluster for data analysis:**
 
   The first portion of this tutorial reviews using the Graham cluster for this analysis. Graham is a heterogeneous cluster, suitable for a variety of workloads, and located at the University of Waterloo [3]. To read more about getting started with the Graham cluster visit their documentation: https://docs.alliancecan.ca/wiki/Getting_started_with_the_new_national_systems. The cluster is useful for running jobs that are intensive; job are run as a simple text file that contains information about which allocation to run the job on, and let's you specify how many compute nodes the job needs, how much memory the job needs, and how long the job will take to run. Using CCDB is also advantageous because you can log-in to their nodes from any computer, store data and make use of their many client support services via these emails:
         
@@ -31,7 +31,7 @@ ___
 
 ___
 
-**Sample review:**
+**A review of the samples used in this project:**
   
   We began on our analysis with demultiplexed 16S amplicon sequencing data from 19 seabird fecal samples and 12 sediment samples using the V4V5 primers (515FB = GTGYCAGCMGCCGCGGTAA	926R = CCGYCAATTYMTTTRAGTTT) [5,6].You can learn more about the sequencing and library details from IMR (this is where the samples were sent for sequencing): https://imr.bio/protocols.html. The seabird fecal samples were collected from northern gannets (*Morus bassanus*), black-legged kittiwakes (*Rissa tridactyla*), common murres (*Uria aalge*), and atlantic puffins (*Fratercula arctica*), while the sediment samples are subsamples of sediment cores takes from 3 ponds; one pond ~240m upwind of a multispecies nesting colony (Bird Rock, Cape St. Mary's (CSM), Newfoundland) of gannets, kittiwakes and murres, one pond directly adjacent to an atlantic puffin colony (Little Fogo Islands, Newfoundland), and a reference pond ~2.56 km away from the multispecies colony in CSM. 
 
