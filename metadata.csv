@@ -1,4 +1,4 @@
-sample-id,type,group
+sample-id,type,group,
 #q2:types,categorical,categorical
 ATPU01,bird,Fratercula_arctica
 ATPU02,bird,Fratercula_arctica
