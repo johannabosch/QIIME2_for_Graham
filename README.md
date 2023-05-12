@@ -1,3 +1,8 @@
+**A review of microbiome analysis methods using QIIME2 on CCDB's Graham cluster:**
+
+This is an in-depth review of the commands used for a microbiome analysis using QIIME2 on the Graham cluster hosted by the Digital Research Alliance of Canada (CCDB).
+
+
 **A brief methods review:**
 
 This bioinformatics analysis was performed with QIIME2, a next-generation microbiome bioinformatics suite that offers a free, user-friendly, and open source platform for both advanced and beginner researchers [1]. The analysis using Qiime2 is run on the Graham cluster hosted by the Digital Research Alliance of Canada (CCDB). Here, I review methods specific to a project involving both sedimentary samples and seabird fecal samples [2].
