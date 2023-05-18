@@ -55,9 +55,17 @@ ___
 
   View the 3 metadata files for these samples here:
 
-      Metadata for all samples together https://github.com/johannabosch/QIIME2_for_Graham/blob/main/birds_metadata.csv
-      Metadata for all sediment samples: https://github.com/johannabosch/QIIME2_for_Graham/blob/main/metadata.csv
-      Metadata for all seabird fecal samples: https://github.com/johannabosch/QIIME2_for_Graham/blob/main/sediments_metadata.csv 
+  Metadata for all samples together
+  
+      https://github.com/johannabosch/QIIME2_for_Graham/blob/main/birds_metadata.csv
+      
+  Metadata for all sediment samples:
+      
+      https://github.com/johannabosch/QIIME2_for_Graham/blob/main/metadata.csv
+  
+  Metadata for all seabird fecal samples: 
+      
+      https://github.com/johannabosch/QIIME2_for_Graham/blob/main/sediments_metadata.csv 
   
 
 The analysis methods are reviewed in Bosch et al. [2], and outline each plug-in that is used, their associated references and the results of the study - methods are outlined in Chapter 3 of the thesis. I would like to acknowledge the *Amplcion analysis tutorial using Qiime2* by Comeau et al. [7] that I used to build this analysis via the Graham cluster, as well as the support team at CCDB for their continuous support while carrying out this project.
