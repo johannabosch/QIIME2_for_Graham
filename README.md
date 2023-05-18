@@ -23,19 +23,18 @@ For questions about account renewals:
 
 For questions about Globus file transfer services:
      
-    ` globus@tech.alliancecan.ca
+     globus@tech.alliancecan.ca
       
 For questions about using Cloud resources:
     
-    `cloud@tech.alliancecan.ca
+    cloud@tech.alliancecan.ca
 
 For any other questions, including questions related to your bioinformatics analysis:
      
      support@tech.alliancecan.ca
       
 
-  **NOTE:** If you are going to contact support, make sure to only include one issue per job, and always include the following information in your email [4]: 
-
+**NOTE:** If you are going to contact support, make sure to only include one issue per job, and always include the following information in your email [4]: 
 
 *   Cluster name
 *   Job ID
