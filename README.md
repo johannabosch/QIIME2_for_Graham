@@ -13,22 +13,26 @@ ___
 
   The first portion of this tutorial reviews using the Graham cluster for this analysis. Graham is a heterogeneous cluster, suitable for a variety of workloads, and located at the University of Waterloo [3]. To read more about getting started with the Graham cluster visit their documentation: https://docs.alliancecan.ca/wiki/Getting_started_with_the_new_national_systems. The cluster is useful for running jobs that are intensive; job are run as a simple text file that contains information about which allocation to run the job on, and let's you specify how many compute nodes the job needs, how much memory the job needs, and how long the job will take to run. Using CCDB is also advantageous because you can log-in to their nodes from any computer, store data and make use of their many client support services via these emails:
         
-      ___
 For questions about accounts:      
+      
       accounts@tech.alliancecan.ca
       
 For questions about account renewals:
+      
       renewals@tech.alliancecan.ca
 
 For questions about Globus file transfer services:
-      globus@tech.alliancecan.ca
+     
+    ` globus@tech.alliancecan.ca
       
 For questions about using Cloud resources:
-      cloud@tech.alliancecan.ca
+    
+    `cloud@tech.alliancecan.ca
 
 For any other questions, including questions related to your bioinformatics analysis:
-      support@tech.alliancecan.ca
-      ___
+     
+     support@tech.alliancecan.ca
+      
 
   **NOTE:** If you are going to contact support, make sure to only include one issue per job, and always include the following information in your email [4]: 
 
