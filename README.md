@@ -1,6 +1,6 @@
 **What is this for?**
 
-This repository is public and can be used to learn how to conduct a 16S amplicon microbiome analysis via QIIME2's micorbiome analysis suite on Compute Canada's Graham Cluster. I provide an in-depth review of the commands used for a microbiome analysis using QIIME2, and ways to use the Graham cluster - hosted by the Digital Research Alliance of Canada (CCDB).
+This repository is public and can be used to learn how to conduct a comparative 16S amplicon analysis via QIIME2's microbiome analysis suite on Compute Canada's Graham Cluster. I provide an in-depth review of the commands used for a microbiome analysis using QIIME2, and ways to use the Graham cluster - hosted by the Digital Research Alliance of Canada (CCDB).
 
 
 **A brief methods review:**
