@@ -1,6 +1,6 @@
-# **Comparative *16S* Amplcion Analysis using QIIME2 on the Graham Cluster**
+# **Comparative *16S* Amplicon Analysis using QIIME2 on the Graham Cluster**
 
-This is a public repo that can be used to learn how to conduct a comparative 16S amplicon analysis via QIIME2's microbiome analysis suite [1] on the Digital Research Alliance of Canada's Graham cluster. The tutorial is wirtten in bookdown format and covers each command and tool used step-by-step. The analysis methods are formally reviewed in Bosch et al. [2], and outline each plug-in that is used, their associated references and the results of the study - methods are outlined in Chapter 3. 
+This is a public repo that can be used to learn how to conduct a comparative 16S amplicon analysis via QIIME2's microbiome analysis suite [1] on the Digital Research Alliance of Canada's Graham cluster. The tutorial is written in Bookdown format and covers each command and tool used step-by-step. The analysis methods are formally reviewed in Bosch et al. [2], and outline each plug-in that is used, their associated references and the results of the study - methods are outlined in Chapter 3. 
 
 **To start reading through each section of the analysis click this link - [LINK}**
 
@@ -12,9 +12,9 @@ ___
   The data used in this analysis was taken from a thesis project that focuses on the transfer of seabird nutrients from a seabird nesting colony in Cape St. Mary’s Ecological Reserve (Newfoundland, Canada) [2]. Review this graphical abstract to understand the ecological processes taking place here:
 
 ![image](https://github.com/johannabosch/QIIME2_for_Graham/assets/126937348/9ec5fe4e-161f-4e4c-9c4b-d93eb391cef2)
->  <sup> **Figure:** Seabird nutrient transfer from Bird Rock, in Cape St. Mary’s Ecological Reserve (Newfoundland) to a pond 240 m away from the seabird colony. Seen in the illustration are northern gannets (*Morus bassannus*) and black-legged kittiwakes (*Rissa tridactyla*), which both nest within the Reserve on an annual basis. <sup>                                                          
+>  <sup> **Figure:** Seabird nutrient transfer from Bird Rock, in Cape St. Mary’s Ecological Reserve (Newfoundland) to a pond 240 m away from the seabird colony. Seen in the illustration are northern gannets (*Morus bassanus*) and black-legged kittiwakes (*Rissa tridactyla*), which both nest within the Reserve on an annual basis. <sup>                                                          
 
-  Using targetted *16S* amplicon sequencing, we assessed how the transfer of nutrients by seabirds in Cape St. Mary's impacts the bacterial composition of sediments taken from ponds nearby a colony. We used QIIME2, a next-generation microbiome bioinformatics suite that offers a free, user-friendly, and open source platform for both advanced and beginner researchers [1]. The analysis using QIIME2 is run on the Graham cluster hosted by the Digital Research Alliance of Canada (CCDB).
+  Using targeted *16S* amplicon sequencing, we assessed how the transfer of nutrients by seabirds in Cape St. Mary's impacts the bacterial composition of sediments taken from ponds nearby a colony. We used QIIME2, a next-generation microbiome bioinformatics suite that offers a free, user-friendly, and open source platform for both advanced and beginner researchers [1]. The analysis using QIIME2 is run on the Graham cluster hosted by the Digital Research Alliance of Canada (CCDB).
 
 
 ___
@@ -45,7 +45,7 @@ support@tech.alliancecan.ca | For any other questions, including questions relat
 ___
 
 ### 📝 **Acknowledgments**
-  I would like to acknowledge the *Amplcion analysis tutorial using Qiime2* by Comeau et al. [7] that was used as a primary reference while conducting the anaylsis through the Graham cluster, as well as the support team at the Alliance for troubleshooting issues I encountered while carrying out this project.
+  I would like to acknowledge the *Amplicon analysis tutorial using Qiime2* by Comeau et al. [7] that was used as a primary reference while conducting the analysis through the Graham cluster, as well as the support team at the Alliance for troubleshooting issues I encountered while carrying out this project.
 ___
 ___
 
@@ -63,3 +63,4 @@ colony tracked using a multi-proxy paleolimnological approach. Memorial Universi
 [6] Walters W, Hyde ER, Berg-Lyons D, Ackermann G, Humphrey G, Parada A, et al. 2016. Improved bacterial 16S rRNA gene (V4 and V4-5) and fungal internal transcribed spacer marker gene primers for microbial community surveys. Msystems. 1(1):e00009-15.
 
 [7] Comeau AM, Douglas GM, Langille M. 2017 Microbiome Helper: A custom and streamlined workflow for microbiome research. mSystems, 2:e00127-16.
+
