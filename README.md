@@ -45,7 +45,7 @@ support@tech.alliancecan.ca | For any other questions, including questions relat
 ___
 
 ### 📝 **Acknowledgments**
-  I would like to acknowledge the *Amplicon analysis tutorial using Qiime2* by Comeau et al. [7] that was used as a primary reference while conducting the analysis through the Graham cluster, as well as the support team at the Alliance for troubleshooting issues I encountered while carrying out this project.
+  I would like to acknowledge the *Amplicon analysis tutorial using Qiime2* by Comeau et al. [4] that was used as a primary reference while conducting the analysis through the Graham cluster, as well as the support team at the Alliance for troubleshooting issues I encountered while carrying out this project.
 ___
 ___
 
@@ -58,9 +58,5 @@ colony tracked using a multi-proxy paleolimnological approach. Memorial Universi
 
 [3] CCDB 2023. Graham. CCDB Docs. URL: https://docs.alliancecan.ca/wiki/Graham 
 
-[5] Parada AE, Needham DM, Fuhrman JA. 2016 Every base matters: assessing small subunit rRNA primers for marine microbiomes with mock communities, time series and global field samples. Environmental microbiology. 18(5):1403-14.
-
-[6] Walters W, Hyde ER, Berg-Lyons D, Ackermann G, Humphrey G, Parada A, et al. 2016. Improved bacterial 16S rRNA gene (V4 and V4-5) and fungal internal transcribed spacer marker gene primers for microbial community surveys. Msystems. 1(1):e00009-15.
-
-[7] Comeau AM, Douglas GM, Langille M. 2017 Microbiome Helper: A custom and streamlined workflow for microbiome research. mSystems, 2:e00127-16.
+[4] Comeau AM, Douglas GM, Langille M. 2017 Microbiome Helper: A custom and streamlined workflow for microbiome research. mSystems, 2:e00127-16.
 
