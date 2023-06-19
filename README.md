@@ -1,11 +1,6 @@
-## **Comparative *16S* Amplicon Analysis using QIIME2 on the Graham Cluster**
+## **Comparative *16S* Amplicon Analysis using QIIME2 on the Graham Cluster: Tutorial and Resources**
 
 This is a public repo that can be used to learn how to conduct a comparative 16S amplicon analysis via QIIME2's microbiome analysis suite [1] on the Digital Research Alliance of Canada's Graham cluster. The tutorial is written in Bookdown format and covers each command and tool used step-by-step. The analysis methods are formally reviewed in Bosch et al. [2], and outline each plug-in that is used, their associated references and the results of the study - methods are outlined in Chapter 3. 
-
-**To start reading through each section of the analysis click this link - [LINK}**
-
-___
-
 
 ### 🧬 **A brief review of the data used in this analysis:**
 
@@ -15,6 +10,26 @@ ___
 >  <sup> **Figure:** Seabird nutrient transfer from Bird Rock, in Cape St. Mary’s Ecological Reserve (Newfoundland) to a pond 240 m away from the seabird colony. Seen in the illustration are northern gannets (*Morus bassanus*) and black-legged kittiwakes (*Rissa tridactyla*), which both nest within the Reserve on an annual basis. <sup>                                                          
 
   Using targeted *16S* amplicon sequencing, we assessed how the transfer of nutrients by seabirds in Cape St. Mary's impacts the bacterial composition of sediments taken from ponds nearby a colony. We used QIIME2, a next-generation microbiome bioinformatics suite that offers a free, user-friendly, and open source platform for both advanced and beginner researchers [1]. The analysis using QIIME2 is run on the Graham cluster hosted by the Digital Research Alliance of Canada (CCDB).
+
+___
+
+### **Resources:**
+
+Tutorial for this analysis: [bookdown link]
+
+**Softwares used in this analysis:**
+These are all made available through the Graham cluster by loading various environment management systems (modules) that helps users create a consistent and controlled environment for executing commands using Python, R, C/C++, Fortran, Java, MATLAB, and Julia.
+
+[QIIME2](https://qiime2.org/) - a microbiome analysis 
+
+[R and RStudio}(https://rstudio-education.github.io/hopr/starting.html) - used to make plots in QIIME2R and Phyloseq packages
+
+[Python]() - used for the quality checking stage via MultiQC
+
+
+
+
+___
 
 
 ___
