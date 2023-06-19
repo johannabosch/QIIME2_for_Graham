@@ -15,18 +15,21 @@ ___
 
 ### **Resources:**
 
-Tutorial for this analysis: [bookdown link]
+This analysis uses various software and tools all made available through the Graham cluster. By loading environment management systems (modules), users can create a consistent and controlled environment for executing commands using different programming languages (R, Python, MATLAB, C/C++, Java, Fortran, and Julia). 
 
-**Softwares used in this analysis:**
-These are all made available through the Graham cluster by loading various environment management systems (modules) that helps users create a consistent and controlled environment for executing commands using Python, R, C/C++, Fortran, Java, MATLAB, and Julia.
+These are some of the coding languages, tools and softwares we used in this analysis: 
 
-[QIIME2](https://qiime2.org/) - a microbiome analysis 
+> **[R and RStudio](https://www.r-project.org/):** R and RStudio are utilized for generating plots using the QIIME2R and Phyloseq packages. R is a statistical programming language widely employed in data analysis and visualization, while RStudio provides an integrated development environment (IDE) for working with R.
 
-[R and RStudio}(https://rstudio-education.github.io/hopr/starting.html) - used to make plots in QIIME2R and Phyloseq packages
+> **[Python](https://www.python.org/):** Python is utilized during the quality checking stage through the MultiQC tool. Python is a versatile programming language known for its simplicity and extensive libraries, making it suitable for a variety of data processing tasks.
 
-[Python]() - used for the quality checking stage via MultiQC
+> **[QIIME2](https://qiime2.org/):** QIIME2 is a powerful microbiome analysis platform used extensively in this analysis. It provides a comprehensive suite of tools for processing, analyzing, and visualizing microbiome data.
 
+> **QIIME2R** 
 
+By leveraging these software and tools, the analysis benefits from the functionalities and capabilities offered by each, ensuring efficient and accurate processing, analysis, and visualization of the microbiome data.
+
+For detailed instructions on installing and using R and RStudio, refer to the book "Hands-On Programming with R", which provides a friendly introduction to programming in R for non-programmers, covering data loading, manipulation, function creation, and various programming tools.
 
 
 ___
