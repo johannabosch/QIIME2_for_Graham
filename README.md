@@ -1,4 +1,4 @@
-# **Comparative *16S* Amplicon Analysis using QIIME2 on the Graham Cluster**
+## **Comparative *16S* Amplicon Analysis using QIIME2 on the Graham Cluster**
 
 This is a public repo that can be used to learn how to conduct a comparative 16S amplicon analysis via QIIME2's microbiome analysis suite [1] on the Digital Research Alliance of Canada's Graham cluster. The tutorial is written in Bookdown format and covers each command and tool used step-by-step. The analysis methods are formally reviewed in Bosch et al. [2], and outline each plug-in that is used, their associated references and the results of the study - methods are outlined in Chapter 3. 
 
