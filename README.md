@@ -19,15 +19,15 @@ This analysis uses various software and tools all made available through the Gra
 
 These are some of the coding languages, tools and softwares we used in this analysis: 
 
-> **[R/RStudio](https://www.r-project.org/):** R and RStudio are utilized for generating plots using the QIIME2R and Phyloseq packages. R is a statistical programming language widely employed in data analysis and visualization, while RStudio provides an integrated development environment (IDE) for working with R [^4].
+> **[R/RStudio](https://www.r-project.org/)** is used for generating plots using the QIIME2R and Phyloseq packages. R is a statistical programming language widely employed in data analysis and visualization, while RStudio provides an integrated development environment (IDE) for working with R [^4].
 
-> **[Python](https://www.python.org/):** Python is utilized during the quality checking stage through the MultiQC tool. Python is a versatile programming language known for its simplicity and extensive libraries, making it suitable for a variety of data processing tasks [^5].
+> **[Python](https://www.python.org/)** is utilized during the quality checking stage through the MultiQC tool. Python is a versatile programming language known for its simplicity and extensive libraries, making it suitable for a variety of data processing tasks [^5].
 
-> **[FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/):** FASTQC is a quality control tool used to assess the quality of sequencing data [^6].
+> **[FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)** is a quality control tool used to assess the quality of sequencing data [^6].
 
-> **[MultiQC](https://multiqc.info/):** MultiQC is a tool that aggregates results from multiple bioinformatics analyses into a single, comprehensive report to evaluate and summarize quality control metrics [^7]. 
+> **[MultiQC](https://multiqc.info/)** is a tool that aggregates results from multiple bioinformatics analyses into a single, comprehensive report to evaluate and summarize quality control metrics [^7]. 
 
-> **[QIIME2](https://qiime2.org/):** QIIME2 is a powerful microbiome analysis platform used extensively in this analysis. It provides a comprehensive suite of tools for processing, analyzing, and visualizing microbiome data [^1].
+> **[QIIME2](https://qiime2.org/)** is a powerful microbiome analysis platform used extensively in this analysis. It provides a comprehensive suite of tools for processing, analyzing, and visualizing microbiome data [^1].
 
 Near the end of this analysis, we export the final files from the cluster to a local compter (your computer) and use two different R packages locally to run a few other analyses and plot a taxonomic heatmap and barplot. While QIIME2 does offer heatmap/barplot capabilities, the aesthetic features are more limited than QIIME2R and Phyloseq. To use QIIME2R and Phyloseq on your local computer, make sure you have [R and RStudio](https://rstudio-education.github.io/hopr/starting.html) installed.
 
