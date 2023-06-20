@@ -40,9 +40,15 @@ ___
 
 ### 💻 **Using the Graham cluster for data analysis:**
 
-  The first portion of this tutorial reviews using the Graham cluster for this analysis. The benefits of using a computing cluster are that it enables efficient processing of large datasets, parallel computing for faster results (covered in my (Metagenomics  tutorial)[LINK]), access to a collaborative community of researchers, and the flexibility of accessing files from any computer with internet access. Graham is a heterogeneous cluster, suitable for a variety of workloads, and located at the University of Waterloo [^2]. To read more about getting started with the Graham cluster visit their documentation: (https://docs.alliancecan.ca/wiki/Getting_started_with_the_new_national_systems)
+  The first portion of this tutorial reviews using the Graham cluster for this analysis. Graham is a heterogeneous cluster, suitable for a variety of workloads, and located at the University of Waterloo [^2]. Using a computing cluster enables:
+- efficient processing of large datasets
+- parallel computing for faster results (covered in my (Metagenomics  tutorial)[LINK])
+- access to a collaborative community of researchers
+- the flexibility of accessing files from any computer with internet access.
 
-  The cluster is useful for running jobs that are intensive; jobs are run as a simple text file that contains information about which allocation to run the job on, and let's you specify how many compute nodes the job needs, how much memory the job needs, and how long the job will take to run. Using CCDB is also advantageous because you can log-in to their nodes from any computer, store data and make use of their many client support services.
+To read more about getting started with the Graham cluster visit their documentation: (https://docs.alliancecan.ca/wiki/Getting_started_with_the_new_national_systems)
+
+  The cluster is useful for running jobs that are intensive; jobs are run as a simple text file that contains information about which allocation to run the job on, and let's you specify how many compute nodes the job needs, how much memory the job needs, and how long the job will take to run. Running job scripts in the Graham cluster is covered in this analysis.
 
 ___
 
