@@ -15,9 +15,7 @@ ___
 
 ### **Resources:**
 
-This analysis uses various software and tools all made available through the Graham cluster. By loading environment management systems (modules), users can create a consistent and controlled environment for executing commands using different programming languages (R, Python, MATLAB, C/C++, Java, Fortran, and Julia). 
-
-These are some of the coding languages, tools and softwares we used in this analysis: 
+This analysis uses various software and tools all made available through the Graham cluster. Here is a list of some of the coding languages, tools and softwares we used in this analysis: 
 
 > **[R/RStudio](https://www.r-project.org/)** is used for generating plots using the QIIME2R and Phyloseq packages. R is a statistical programming language widely employed in data analysis and visualization, while RStudio provides an integrated development environment (IDE) for working with R [^4].
 
